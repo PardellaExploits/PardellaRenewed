@@ -1,0 +1,11 @@
+Welcome to Pardella Renewed!
+
+Things before you get into it:
+
+1 - Make sure your anti-virus is off.
+
+2 - Extract ZIP Folder and drag folders inside of the extracted folde to the main folder where the exe is located
+
+3 - Updating is automoatic with the DLL. If your connection is slow, Pardella will take longer to open.
+
+Have fun!
